@@ -2,10 +2,10 @@
 
 I wrote this challenge for my friend to help him test his CS skills. His college CS course requires him to know the following topics in C:
 
-    * Memory allocation through malloc() & free().
-    * Structures
-    * File I/O through <stdio.h>
-    * String manipulation functions
+ * Memory allocation through malloc() & free().
+ * Structures
+ * File I/O through <stdio.h>
+ * String manipulation functions
 
 # Challenge
 
